@@ -15,7 +15,7 @@ Le projet ENIGMASSURANCE est un programme console écrit en Java permettant de c
 Le projet a été développé en utilisant le langage de programmation Java et les principes de la programmation orientée objet pour organiser le code en classes et méthodes. Le stockage des produits dans les portefeuilles est géré avec une structure de données ArrayList pour gérer facilement les listes dynamiques et offrir de nombreuses méthodes utiles.
 
 # Diagramme UML
-Voici le diagramme UML de notre programme :
+Voici le diagramme UML de mon programme :
 ```
 +--------------+       +-------------+      +----------------+
 | Produit      |       | Portefeuille|      | Main           |
