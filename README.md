@@ -16,6 +16,7 @@ Le projet a été développé en utilisant le langage de programmation Java et l
 
 # Diagramme UML
 Voici le diagramme UML de notre programme :
+```
 +--------------+       +-------------+      +----------------+
 | Produit      |       | Portefeuille|      | Main           |
 +--------------+       +-------------+      +----------------+
@@ -29,6 +30,7 @@ Voici le diagramme UML de notre programme :
 +--------------+       +-------------+      +----------------+
                       | calculTotal()|
                       +-------------+
+```
                       
                       
 # Points d'amélioration
