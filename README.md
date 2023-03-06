@@ -18,7 +18,7 @@ Le projet a été développé en utilisant le langage de programmation Java et l
 Voici le diagramme UML de mon programme :
 ```
 +--------------+       +-------------+      +----------------+
-| Produit      |       | Portefeuille|      | Main           |
+| Produit      |       | Portefeuille|      | ENIGMASSURANCE |
 +--------------+       +-------------+      +----------------+
 | String nom   |       | String nom  |      | void main()    |
 | String type  |       | ArrayList  |      |                |
